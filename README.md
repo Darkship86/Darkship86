@@ -1,6 +1,7 @@
--const { name:'Dan' 
--discord:'Darkship#7479'
--
+-Name:Dan
+-Discord:Darkship#7479
+-Languages:Javascript, Python, C++ 
+-Tools:Nodejs, Tensorflowjs, ES6js
 
 
 
