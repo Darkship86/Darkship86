@@ -1,5 +1,3 @@
--Name: Dan
-
 -Discord: Darkship#7479
 
 -Languages: Javascript, Python, C++ 
