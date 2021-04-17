@@ -19,6 +19,6 @@ I ♥ helping out open source projects. I've contributed to **28** open-source p
 * I use Python, Go, and JavaScript a lot.
 
 ### Contact me:
-* Send me a DM on discord ! : @Dan83
+* Send me a DM on discord ! : Dane#7479
 
-*I <3 Python & JS*
+
