@@ -7,7 +7,7 @@
 ### More about me :
 
 
-I joined github **1** year ago and I ♥ helping out open source projects. I've contributed to **28** open-source projects!
+I ♥ helping out open source projects. I've contributed to **28** open-source projects!
 
 ### My current projects:
 * Piston cli : *A CLI-Based Compiler using the piston-api*
