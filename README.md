@@ -7,18 +7,19 @@
 ### More about me :
 
 
-I ♥ helping out open source projects. I've contributed to **28** open-source projects!
+**I ♥ helping out open source projects. I've contributed to **28** open-source projects!**
 
 ### My current projects:
-* Piston cli : *A CLI-Based Compiler using the piston-api*
-* Toasty Bot : *A discord bot designed to help out big servers*
-* Samari Music : *A discord bot that plays over 900+ stations*
+* **Piston cli** : **A CLI-Based Compiler using the piston-api**
+* **Toasty Bot** : **A discord bot designed to help out big servers**
+* **Samari Music** : **A discord bot that plays over 900+ stations**
+* **9EEM** : **A Modified and open-source version of MEE6**
 
 ### Things about me:
-* I own a CentOS and Heroku server.
-* I use Python, Go, and JavaScript a lot.
+* **I own a CentOS and Heroku server**
+* **I use Python, Go, and JavaScript a lot**
 
 ### Contact me:
-* Send me a DM on discord ! : Dane#7479
+**Send me a DM on discord ! :** **Dane#7479**
 
 
