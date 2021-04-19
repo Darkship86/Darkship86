@@ -16,8 +16,9 @@
 * **9EEM** : **A Modified and open-source version of MEE6**
 
 ### Things about me:
-* **I own a CentOS and Heroku server**
+* **I own a Ubuntu and Netlify server**
 * **I use Python, Go, and JavaScript a lot**
+* **I am available for any projects 24/7 !**
 
 ### Contact me:
 **Send me a DM on discord ! :** **Dane#7479**
