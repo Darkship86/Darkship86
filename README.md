@@ -13,9 +13,8 @@ https://www.buymeacoffee.com/danielkc42e
 * **9EEM** : **A Modified and open-source version of MEE6**
 
 ### If you want to work on a project :
-* **I also use Unreal Engine and Blender**
 * **I mainly use Python, and JavaScript**
-* **I am available for any projects 24/7 !**
+* **I'm available for most projects**
 
 
 
