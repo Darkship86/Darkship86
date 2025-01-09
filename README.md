@@ -1,10 +1,4 @@
 
-![](https://komarev.com/ghpvc/?username=Darkship86)
-
-### I enjoy coding and contributing to open source projects
-
-https://www.buymeacoffee.com/danielkc42e
-
 ### My legacy and current projects:
 * **Piston cli** : **A CLI-Based Compiler using the piston-api**
 * **Namaste Apartment APP** : **App for a client (Apartments Management)**
@@ -14,7 +8,7 @@ https://www.buymeacoffee.com/danielkc42e
 
 ### If you want to work on a project :
 * **I mainly use Python, and JavaScript**
-* **I'm available for most projects**
+
 
 
 
